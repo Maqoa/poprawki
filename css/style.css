@@ -68,3 +68,11 @@ footer#contact > ul > li > a {
     color: white;
     text-decoration: none;
 }
+
+contact#contact-header > a {
+    background-color: #222;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    text-decoration: none;
+    }
