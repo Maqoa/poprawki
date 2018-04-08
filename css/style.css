@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: 'Lato', 'sans-serif';
+}
+header#header > img {
+    width: 100%;
+}
+header#header > h1 {
+    position: absolute;
+    top: 50%;
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    width: 100%;
+    
+}
+header#about  {
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+
+nav#menu {
+    background-color: #222;
+    text-align: center;
+}
+
+nav#menu > ul {
+    margin: 0;
+}
+
+nav#menu > ul > li {
+    display: inline-block;
+    padding: 40px;
+    }
+
+nav#menu > ul > li > a {
+    color: white;
+}
+
+#contact {
+    background-color: #222;
+    text-align: center;
+    color: white;
+}
+#contact > ul > li > a {
+    background-color: #222;
+    text-align: center;
+    color: white;
+}
+
+
+
