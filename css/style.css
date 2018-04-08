@@ -2,9 +2,11 @@ body {
     margin: 0;
     font-family: 'Lato', 'sans-serif';
 }
+
 header#header > img {
     width: 100%;
 }
+
 header#header > h1 {
     position: absolute;
     top: 50%;
@@ -14,9 +16,10 @@ header#header > h1 {
     margin-right: 0px;
     text-align: center;
     width: 100%;
-    
+
 }
-header#about  {
+
+header#about {
     color: black;
     text-align: center;
     width: 100%;
@@ -34,22 +37,34 @@ nav#menu > ul {
 nav#menu > ul > li {
     display: inline-block;
     padding: 40px;
-    }
+}
 
 nav#menu > ul > li > a {
     color: white;
 }
 
+footer#contact {
+    background-color: #222;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+footer#contact > ul > li > a {
+    background-color: #222;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
 #contact {
     background-color: #222;
     text-align: center;
     color: white;
+    text-decoration: none;
 }
 #contact > ul > li > a {
     background-color: #222;
     text-align: center;
     color: white;
+    text-decoration: none;
 }
-
-
-
